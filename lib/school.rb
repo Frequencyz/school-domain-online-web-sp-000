@@ -1,3 +1,12 @@
 # code here!
-class.School
+class School
+  
+  def initialize(school)
+    @school = school
+  end
+  
+  
+  
+  
+end  
 
